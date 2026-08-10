@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+G:\SQA_lab6\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3862985680.index
+2135501418.index
